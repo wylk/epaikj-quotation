@@ -1,0 +1,4 @@
+<!--pages/web/web.wxml-->
+<view class="container">
+<web-view src="https://sales.epai.biz/wap?openid={{openid}}"></web-view>
+</view>
